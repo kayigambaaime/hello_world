@@ -1,16 +1,6 @@
-# hello_worldapp
+![image](https://github.com/kayigambaaime/hello_world/assets/172512829/92227f97-acb6-4b35-8bb6-b95f46879309)
 
-A new Flutter project.
+names:Kayigamba Dukunde Aime
+Id:25280
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+this is my hello world project
